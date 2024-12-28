@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github_link](https://your-solution-url.com)
+- Solution URL: [github_link](https://github.com/vb8146649/nft-card-frontend)
 - Live Site URL: [live_site](https://your-live-site-url.com)
 
 ## My process
@@ -60,6 +60,6 @@ Learned how to overlay another div onto a image / div , see below:
 
 ## Author
 
-- Website - [Vishal]()
+- Website - [Vishal](https://github.com/vb8146649/portfolio)
 
 
