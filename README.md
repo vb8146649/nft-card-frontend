@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github_link](https://github.com/vb8146649/nft-card-frontend)
-- Live Site URL: [live_site](https://your-live-site-url.com)
+- Live Site URL: [live_site](https://vb8146649.github.io/nft-card-frontend/)
 
 ## My process
 feedback and implement
